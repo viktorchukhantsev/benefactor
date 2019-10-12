@@ -1,2 +1,2 @@
-# benefactor
-Python snippets
+# Benefactor
+It's a useful Python snippets collection.
